@@ -12,7 +12,7 @@ from email.message import EmailMessage  # Email package used to construct an ema
 def send(text):
 
     # Email address to send message to
-    toEmail = 'jftesting84@gmail.com'
+    toEmail = 'enter email address'
 
     # A tuple that contains authorization information that will be passed into an SMTP object. The first element
     # in the tuple is the email address, and the second is an app password. The app password is a feature gmail offers
