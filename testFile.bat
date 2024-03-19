@@ -1,1 +1,0 @@
-"C:\Users\joefo\AppData\Local\Microsoft\WindowsApps\python.exe" "C:\Users\joefo\CodingProjects\TextingProject\main.py"
