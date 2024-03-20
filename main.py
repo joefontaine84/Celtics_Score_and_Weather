@@ -1,6 +1,6 @@
 """ This program is designed to automatically fetch data pertaining to the most recent Boston Celtics game
 and data pertaining to the most recent weather forcast. The data is then sent to a desired email address.
-Manipulation of the computer's task scheduler can """
+Manipulation of the computer's task scheduler can automatically run this program at a specific time per day. """
 
 import smtplib  # Simple mail transfer protocol library, used to send and/or receive an email.
 import requests  # Library used for webscraping.
