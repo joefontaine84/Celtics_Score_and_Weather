@@ -4,3 +4,4 @@
 (the main.py file) for more information on the methodology on how this was done. </p>
 
 <h2>Notes on Task Scheduler</h2>
+<img src="https://github.com/joefontaine84/Celtics_Score_and_Weather/blob/master/Images/General_Tab.png" alt="The general tab of a Task in the Task Scheduler GUI">
