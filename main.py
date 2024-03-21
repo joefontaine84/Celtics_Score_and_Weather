@@ -19,7 +19,7 @@ def send(text):
     # allows apps to sign in to accounts; it is an alternative to entering a personal password. For more on this,
     # refer to https://support.google.com/mail/answer/185833?hl=en. You can set the app password as an environment
     # variable so that it is not placed directly into the code.
-    auth = ('enter email address', '16-letter app password')
+    auth = (toEmail, '16-letter app password')
 
     # An SMTP object which defines the host (first parameter) and the port number in which the mail will be transferred.
     server = smtplib.SMTP("smtp.gmail.com", 587)
